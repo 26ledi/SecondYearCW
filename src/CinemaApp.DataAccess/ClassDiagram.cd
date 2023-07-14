@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CinemaApp.DataAccess.Entities.Category" Collapsed="true">
+    <Position X="12" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Cinema" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAABAAAAAQIAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Cinema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.CinemaOrder" Collapsed="true">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\CinemaOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Film" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAQAABAAAEAQAAAAAAAEAAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Order" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GCAAAAAAEAgKAgAAAAAAAACIAAAAAAEAAAAAAkQAAAE=</HashCode>
+      <FileName>Entities\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Person" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAEAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Place" Collapsed="true">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAACAAAAABAE=</HashCode>
+      <FileName>Entities\Place.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Role" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Entities.Session" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAgAAAQA=</HashCode>
+      <FileName>Entities\Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.CategoryDao" Collapsed="true">
+    <Position X="13.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAEAAAAAAgAAAACAAIA=</HashCode>
+      <FileName>Repositories\CategoryDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.PersonDao" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAEAAAAAAgAAAACAAIA=</HashCode>
+      <FileName>Repositories\PersonDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.RoleDao" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAEAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>Repositories\RoleDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.FilmDao" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAkAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>Repositories\FilmDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.CinemaDao" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAEAAAAAAgAAAACAAIA=</HashCode>
+      <FileName>Repositories\CinemaDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.CinemaOrderDao" Collapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAIAAAAAAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>Repositories\CinemaOrderDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.PlaceDao" Collapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAABAIAQAAAAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>Repositories\PlaceDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.SessionDao" Collapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAABAIAAAAEAAAAAAgAAAACAAIA=</HashCode>
+      <FileName>Repositories\SessionDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemaApp.DataAccess.Repositories.OrderDao" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAEAAAAAAAAAAAAABAIAEAAEAAAAAAgAAAAWAAAA=</HashCode>
+      <FileName>Repositories\OrderDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

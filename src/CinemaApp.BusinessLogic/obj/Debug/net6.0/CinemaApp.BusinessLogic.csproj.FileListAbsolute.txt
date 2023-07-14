@@ -1,0 +1,15 @@
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\bin\Debug\net6.0\CinemaApp.BusinessLogic.deps.json
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\bin\Debug\net6.0\CinemaApp.BusinessLogic.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\bin\Debug\net6.0\CinemaApp.BusinessLogic.pdb
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\bin\Debug\net6.0\CinemaApp.DataAccess.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\bin\Debug\net6.0\CinemaApp.DataAccess.pdb
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.csproj.AssemblyReference.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.AssemblyInfoInputs.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.AssemblyInfo.cs
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.csproj.CoreCompileInputs.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.csproj.CopyComplete
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\refint\CinemaApp.BusinessLogic.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\CinemaApp.BusinessLogic.pdb
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.BusinessLogic\obj\Debug\net6.0\ref\CinemaApp.BusinessLogic.dll

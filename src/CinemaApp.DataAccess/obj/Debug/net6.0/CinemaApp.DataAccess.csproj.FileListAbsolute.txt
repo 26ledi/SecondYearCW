@@ -1,0 +1,12 @@
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\bin\Debug\net6.0\CinemaApp.DataAccess.deps.json
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\bin\Debug\net6.0\CinemaApp.DataAccess.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\bin\Debug\net6.0\CinemaApp.DataAccess.pdb
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.csproj.AssemblyReference.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.AssemblyInfoInputs.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.AssemblyInfo.cs
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.csproj.CoreCompileInputs.cache
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\refint\CinemaApp.DataAccess.dll
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\CinemaApp.DataAccess.pdb
+J:\C#\Deuxieme Semestre\CinemaApp\src\CinemaApp.DataAccess\obj\Debug\net6.0\ref\CinemaApp.DataAccess.dll

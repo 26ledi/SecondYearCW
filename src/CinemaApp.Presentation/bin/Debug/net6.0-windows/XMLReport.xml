@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BalanceData>
+  <AverageViewers>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Average>4,6429</Average>
+    <CinemaName>Cinekin</CinemaName>
+    <Average>4,7143</Average>
+    <CinemaName>LediCinema</CinemaName>
+    <Average>7,25</Average>
+  </AverageViewers>
+  <PopularFilms>
+    <Film>
+      <Name>Titanic</Name>
+      <Rating>9</Rating>
+    </Film>
+  </PopularFilms>
+  <Cashier>
+    <CashierName>Chloe Sullivan</CashierName>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Amount>1191,2</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Wisdom Ledi</CashierName>
+    <CinemaName>Cinekin</CinemaName>
+    <Amount>950</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Thomas</CashierName>
+    <CinemaName>LediCinema</CinemaName>
+    <Amount>400</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Naomie</CashierName>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Amount>750</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Shelby Ledi</CashierName>
+    <CinemaName>Cinekin</CinemaName>
+    <Amount>1026,64</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Wisdom Ledi</CashierName>
+    <CinemaName>LediCinema</CinemaName>
+    <Amount>780</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Shelby Ledi</CashierName>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Amount>571</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Naomie</CashierName>
+    <CinemaName>Cinekin</CinemaName>
+    <Amount>75</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Thomas</CashierName>
+    <CinemaName>Cinekin</CinemaName>
+    <Amount>456</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Chloe Sullivan</CashierName>
+    <CinemaName>LediCinema</CinemaName>
+    <Amount>650</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Chloe Sullivan</CashierName>
+    <CinemaName>Cinekin</CinemaName>
+    <Amount>420</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>Wisdom Ledi</CashierName>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Amount>406,8</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>David</CashierName>
+    <CinemaName>ShowBuzz</CinemaName>
+    <Amount>200</Amount>
+  </Cashier>
+  <Cashier>
+    <CashierName>David</CashierName>
+    <CinemaName>LediCinema</CinemaName>
+    <Amount>68</Amount>
+  </Cashier>
+</BalanceData>
